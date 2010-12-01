@@ -10,6 +10,8 @@
             <string>public\stylesheets\custom.css</string>
             <key>new</key>
             <string>app\views\users\new.html.erb</string>
+            <key>rout</key>
+            <string>config\routes.rb</string>
         </dict>
     </dict>
 </plist>

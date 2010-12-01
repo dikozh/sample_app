@@ -1,4 +1,3 @@
-
 Factory.define :user do |user|
 	user.name					"Dima kozh"
 	user.email					"email@mail.com"
